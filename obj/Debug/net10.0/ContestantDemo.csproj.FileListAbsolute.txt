@@ -1,0 +1,15 @@
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\bin\Debug\net10.0\ContestantDemo.exe
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\bin\Debug\net10.0\ContestantDemo.deps.json
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\bin\Debug\net10.0\ContestantDemo.runtimeconfig.json
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\bin\Debug\net10.0\ContestantDemo.dll
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\bin\Debug\net10.0\ContestantDemo.pdb
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.AssemblyInfoInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.AssemblyInfo.cs
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.csproj.CoreCompileInputs.cache
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.sourcelink.json
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.dll
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\refint\ContestantDemo.dll
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.pdb
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ContestantDemo.genruntimeconfig.cache
+C:\Users\zcru3\OneDrive\Desktop\ContestantDemo\ContestantDemo\obj\Debug\net10.0\ref\ContestantDemo.dll
